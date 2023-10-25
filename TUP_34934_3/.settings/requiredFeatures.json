@@ -6,8 +6,16 @@
   }, {
     "id" : "org.talend.lite.di.datalineage.feature.feature.group"
   }, {
+    "id" : "org.talend.lite.di.docker.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.importation.feature.feature.group"
+  }, {
     "id" : "org.talend.lite.di.jobscript.feature.feature.group"
   }, {
     "id" : "org.talend.lite.di.jobtemplate.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.publish.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.metadata.bridge.feature.feature.group"
   } ]
 }
