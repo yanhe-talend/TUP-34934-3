@@ -3,7 +3,5 @@
   "disable" : null,
   "requiredInstallableUnits" : [ {
     "id" : "org.talend.lite.di.audit.feature.feature.group"
-  }, {
-    "id" : "org.talend.lite.di.datalineage.feature.feature.group"
   } ]
 }
