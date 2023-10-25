@@ -1,5 +1,9 @@
 {
   "version" : "1.0.0",
   "disable" : null,
-  "requiredInstallableUnits" : [ ]
+  "requiredInstallableUnits" : [ {
+    "id" : "org.talend.lite.di.audit.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.datalineage.feature.feature.group"
+  } ]
 }
